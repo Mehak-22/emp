@@ -1,0 +1,5 @@
+Bundle-Name: employeeweb
+Bundle-SymbolicName: com.employee
+Bundle-Version: 1.0.0
+Export-Package: com.employee.constants
+Import-Package: *;resolution:="optional"
